@@ -1,0 +1,10 @@
+bowling:
+    ☐ draw canvas
+    ☐ color scheme
+    ☐ allow keyenter (j to bowl, k to switch to chat)
+
+chat:
+    ☐ draw canvas
+    ☐ add textfield
+    ☐ add chat boxes
+    ☐ add hook to gpt
